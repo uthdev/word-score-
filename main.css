@@ -1,0 +1,16 @@
+#myText {
+    border: 2px;
+    margin-left: 1opx;
+}
+
+body {
+    background-color: aquamarine;
+    margin: 10px;
+
+}
+
+#displayDiv {
+    background-color: blanchedalmond;
+    border: 1px dashed gold;
+    margin: 10px; 
+}

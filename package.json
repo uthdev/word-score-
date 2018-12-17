@@ -1,0 +1,14 @@
+{
+  "name": "scrabble",
+  "version": "1.0.0",
+  "description": "calculates the score of a word",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "uthdev",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
